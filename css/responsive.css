@@ -1,0 +1,345 @@
+@media (max-width: 1200px) {
+  header .logo p {
+    width: 100%;
+    clear: both; }
+
+  .navbar-right {
+    padding: 11px 0; }
+
+  body {
+    font-size: 16px; }
+
+  .navbar-default .navbar-nav > li {
+    margin-right: 10px; }
+
+  .service .col-md-4 .content h2 {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 20px; }
+
+  .service .col-md-4 .content p span {
+    font: italic 700 16px "Open Sans", sans-serif; }
+
+  .teacher-list .content {
+    width: 100%; } }
+@media (max-width: 1024px) {
+  .service .col-md-4 .content {
+    padding: 25px 45px 0 28px; } }
+@media (max-width: 992px) {
+  .service .col-md-4 .content {
+    padding: 25px 0 0 0; }
+
+  header .logo img {
+    max-width: 225px;
+    float: left; }
+
+  header .logo p {
+    width: 100%;
+    clear: both;
+    font-size: 14px; }
+
+  .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    font-size: 14px; }
+
+  body {
+    font-size: 14px; }
+
+  .patner img {
+    max-width: 100px;
+    float: left; }
+
+  .patner img + img {
+    margin-left: 25px; }
+
+  .youtube .youtube-text {
+    padding-left: 0; }
+
+  footer img {
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 250px; }
+
+  footer .social {
+    margin-top: 15px; }
+
+  footer .row > div {
+    margin: 30px 0; }
+    footer .row > div:last-child {
+      margin-bottom: 0; }
+    footer .row > div:first-child {
+      margin-top: 0; }
+
+  .youtube .youtube-text h2 {
+    font-size: 20px; }
+
+  .youtube .youtube-text p {
+    font-size: 12px; }
+
+  .language .content .overlay .btn {
+    position: absolute;
+    width: 50%;
+    bottom: 8px;
+    background: #fff;
+    border: 1px solid #f16739;
+    color: #f16739;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    border-radius: 0; }
+
+  .works {
+    background-image: none; }
+
+  .navbar-default .navbar-nav > li:last-child {
+    margin-right: 10px; }
+
+  .teacher-list .content .img {
+    width: 35%;
+    float: left; }
+
+  .teacher-list .content .text {
+    width: 65%;
+    float: left;
+    text-align: center; }
+
+  .teacher-list .content .text h2 {
+    margin-top: 10px; }
+
+  .testimonial-head h2 {
+    position: static; } }
+@media (max-width: 845px) {
+  .carousel-indicators li {
+    display: inline-block;
+    margin-bottom: 0;
+    margin: 0 10px; }
+
+  .carousel-indicators .active {
+    margin-bottom: 0;
+    margin: 0 10px; }
+
+  .carousel-indicators {
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    z-index: 15;
+    width: auto;
+    padding-left: 0;
+    margin-left: -80px;
+    text-align: center;
+    list-style: none;
+    bottom: 0; } }
+@media (max-width: 767px) {
+  .navbar-default .navbar-toggle {
+    border-color: #ddd;
+    background: #7bcc1d;
+    color: #fff; }
+
+  .navbar-default .navbar-toggle:focus,
+  .navbar-default .navbar-toggle:hover {
+    background-color: #f16739; }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff; }
+
+  .navbar-toggle {
+    position: relative;
+    top: 25px; }
+
+  .navbar-default .navbar-nav > li:nth-child(4) a {
+    color: #000;
+    background: none;
+    padding: 15px 10px; }
+
+  .navbar-default .navbar-nav > li a:hover {
+    background: #f16739;
+    color: #fff;
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -o-transition: .3s;
+    -ms-transition: .3s; }
+
+  .navbar-right {
+    padding: 0;
+    margin-bottom: 0; }
+
+  .service .row {
+    display: initial; }
+
+  .service .col-md-4 {
+    border-left: 4px solid #fff;
+    border-right: 4px solid #fff;
+    margin-bottom: 40px; }
+    .service .col-md-4:last-child {
+      margin-bottom: 0; }
+
+  .service .col-md-4 .content {
+    padding: 0 0 0 0;
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto; }
+
+  .navbar {
+    padding: 0 15px; }
+
+  .navbar {
+    padding: 0 20px; }
+
+  .language .content {
+    max-width: 350px;
+    margin: 0 auto;
+    margin-bottom: 30px; }
+
+  .language .col-md-3:last-child .content {
+    margin-bottom: 0; }
+
+  .language .content .overlay .btn {
+    position: absolute;
+    width: 50%;
+    bottom: 40px;
+    background: #fff;
+    border: 1px solid #f16739;
+    color: #f16739;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    border-radius: 0; }
+
+  .teacher-list .content {
+    width: 100%;
+    margin-bottom: 35px; }
+    .teacher-list .content .item-content {
+      max-width: 350px;
+      margin: 0 auto;
+      float: none; }
+
+  .works {
+    background: url(../images/work-bg.jpg) right no-repeat; }
+
+  .patner {
+    padding-top: 88px;
+    text-align: center; }
+
+  .patner img {
+    float: none;
+    display: inline-block; }
+
+  .youtube-img {
+    margin-bottom: 30px; }
+
+  .youtube {
+    padding: 50px 0; }
+
+  footer {
+    padding: 40px 0; }
+
+  header .logo p {
+    margin-left: 10px; }
+
+  .language h2 {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .teacher h2 {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .work-head h2 {
+    max-width: 100%; }
+
+  .navbar-default .navbar-nav > li {
+    margin-right: 0; }
+
+  .navbar-default .navbar-nav > li:last-child {
+    margin-right: 0; }
+
+  .work-side {
+    padding-left: 15px;
+    clear: both; }
+
+  .teacher-list .content .text h2 {
+    margin-top: 7px; }
+
+  .all-teacher {
+    margin-bottom: 30px; }
+
+  .teacher-list .content:nth-child(odd) {
+    float: left; } }
+@media (max-width: 450px) {
+  .header-banner .content {
+    padding: 25px 15px; }
+
+  .header-banner .content h2 {
+    font: 700 18px "Open Sans", sans-serif; }
+
+  .header-banner .content p {
+    font-size: 14px; }
+
+  .header-banner .content p span {
+    font-size: 12px; }
+
+  .header-banner .content .btn {
+    font-size: 18px; }
+
+  .service .col-md-4 .content p span {
+    font: italic 700 14px "Open Sans", sans-serif; }
+
+  .teacher-list .content .text .btn {
+    padding: 10px 20px; }
+
+  .teacher-list .content .text h2 {
+    font-size: 20px; }
+
+  .works {
+    background-image: none; }
+
+  .works .btn {
+    margin: 0 auto;
+    width: 160px;
+    display: block; }
+
+  .works {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .teacher h2 {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .patner h2 {
+    line-height: 30px;
+    font-size: 18px; }
+
+  .navbar-toggle {
+    position: relative;
+    top: 25px;
+    margin-right: 0; }
+
+  header .logo p {
+    margin-left: 10px;
+    font-size: 12px; }
+
+  .carousel-inner .content p {
+    padding: 20px 15px;
+    font: italic 300 14px/24px "Open Sans", sans-serif; }
+
+  .carousel-inner .content h4 {
+    font-size: 20px; }
+
+  .carousel-inner .content h4 span {
+    font-size: 14px; }
+
+  .testimonials {
+    padding: 70px 0; }
+
+  .all-teacher {
+    margin-top: 10px; } }
+
+/*# sourceMappingURL=responsive.css.map */
